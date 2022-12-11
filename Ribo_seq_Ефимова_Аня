@@ -9692,6 +9692,24 @@
       "metadata": {
         "id": "CwdYtEdidiiC"
       }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Задание 2. Анализ wig-файла"
+      ],
+      "metadata": {
+        "id": "EpoktFs6h3nw"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "QfL-W6TMh70L"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
